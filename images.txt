@@ -3,6 +3,7 @@
 #nginx
 #mysql
 #mysql:8.0.37
+mysql:8.0.39
 #nacos/nacos-server
 #nacos/nacos-server:v2.3.2
 #nacos/nacos-server:1.4.0
