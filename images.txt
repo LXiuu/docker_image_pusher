@@ -5,7 +5,8 @@
 #mysql:8.0.37
 #mysql:8.0.39
 #mysql/mysql-server:8.0.32-aarch64
-cehc/jdk8-arm:latest
+biarms/mysql:5.7.33-linux-arm64v8-beta-circleci
+#cehc/jdk8-arm:latest
 #nacos/nacos-server
 #nacos/nacos-server:v2.3.2
 #nacos/nacos-server:1.4.0
