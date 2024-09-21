@@ -17,7 +17,8 @@
 #bitnami/redis-sentinel:7.2.5
 #zlmediakit/zlmediakit:master
 #openjdk:8
-python:3.9-slim
+arm64v8/openjdk:8-jdk-slim
+#python:3.9-slim
 
 
 #支持私库
