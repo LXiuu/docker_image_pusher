@@ -18,7 +18,7 @@
 #zlmediakit/zlmediakit:master
 #openjdk:8
 #arm64v8/openjdk:8-jdk-slim
-arm64v8/openjdk:17-jdk
+arm64v8/openjdk:17-buster
 #python:3.9-slim
 
 
