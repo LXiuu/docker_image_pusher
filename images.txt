@@ -18,8 +18,11 @@
 #zlmediakit/zlmediakit:master
 #openjdk:8
 #arm64v8/openjdk:8-jdk-slim
-arm64v8/openjdk:17-buster
+#arm64v8/openjdk:17-buster
 #python:3.9-slim
+tugraph/tugraph-runtime-centos7:4.0.1
+elasticsearch:8.5.3
+openspg/openspg-server:latest
 
 
 #支持私库
